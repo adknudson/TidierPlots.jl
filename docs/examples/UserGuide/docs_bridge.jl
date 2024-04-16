@@ -1,7 +1,6 @@
 using TidierPlots
 using DataFrames
 using PalmerPenguins
-using CairoMakie
 
 penguins = dropmissing(DataFrame(PalmerPenguins.load()));
 
