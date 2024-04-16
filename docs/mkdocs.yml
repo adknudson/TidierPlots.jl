@@ -1,6 +1,6 @@
 theme:
   name: material
-  logo: assets/logo.png
+  logo: assets/logo.png # logo in docs/assets
   features:
     - content.code.copy
     # - announce.dismiss
@@ -116,6 +116,6 @@ plugins:
 
 nav:
   - "Home": "index.md"
-  - "Prelim How To": "examples/generated/UserGuide/docs_bridge.md"
-  - "Contribute" : "examples/generated/Contributors/HowTo.md"
+  - "Getting Started": "examples/generated/UserGuide/gettingstarted.md"
+  - "Contribute" : "examples/generated/Contributors/contributing.md"
   - "Reference" : "reference.md"
